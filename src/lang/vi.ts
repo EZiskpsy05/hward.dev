@@ -26,11 +26,11 @@ const vi = {
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/howardca/",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/EZiskpsy05",
       },
       {
         icon: "SiGitlab",
@@ -38,7 +38,7 @@ const vi = {
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/Bauawakka292",
       },
       
     ],
@@ -48,7 +48,7 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là Howard Tran",
       description:
         "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/orion-nebula.jpg",
@@ -56,17 +56,17 @@ const vi = {
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://github.com/EZiskpsy05/resume/blob/main/resume.pdf",
         },
         {
           icon: "FaFacebook",
           title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          link: "https://facebook.com/Bauawakka292/",
         },
         {
           icon: "FaGithub",
           title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          link: "https://github.com/EZiskpsy05",
         },
       ],
     },

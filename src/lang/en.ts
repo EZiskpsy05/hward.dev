@@ -23,7 +23,7 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:anhkhoat030207+work@gmail.com",
       },
       {
         title: "Linkedin",
@@ -33,17 +33,17 @@ const en = {
       {
         title: "Github",
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/EZiskpsy05",
       },
       {
         title: "Gitlab",
         icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+        link: "https://gitlab.com/EZiskpsy05",
       },
       {
         title: "Facebook",
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/Bauawakka292",
       },
       
     ],
@@ -53,7 +53,7 @@ const en = {
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, I'm Howard Tran",
       description:
         "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
       image: "/assets/images/orion-nebula.jpg",
@@ -61,17 +61,17 @@ const en = {
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://github.com/EZiskpsy05/resume/blob/main/resume.pdf",
         },
         {
           icon: "FaFacebook",
           title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          link: "https://facebook.com/Bauawakka292/",
         },
         {
           icon: "FaGithub",
           title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          link: "https://github.com/EZiskpsy05",
         },
       ],
     },

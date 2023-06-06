@@ -65,12 +65,12 @@ const en = {
         },
         {
           icon: "FaFacebook",
-          title: "howznguyen",
+          title: "Raw Head Red Hawk",
           link: "https://facebook.com/Bauawakka292/",
         },
         {
           icon: "FaGithub",
-          title: "howznguyen",
+          title: "Olkkaesi",
           link: "https://github.com/EZiskpsy05",
         },
       ],

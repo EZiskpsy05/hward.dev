@@ -28,7 +28,7 @@ const en = {
       {
         title: "Linkedin",
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/howardca/",
       },
       {
         title: "Github",

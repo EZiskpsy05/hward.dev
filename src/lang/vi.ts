@@ -22,7 +22,7 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:anhkhoat030207+work@gmail.com",
       },
       {
         icon: "SiLinkedin",

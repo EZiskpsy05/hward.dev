@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://olkaesi.vercel.app/',
+    siteUrl: 'https://howz.dev/',
     generateRobotsTxt: true,
     changefreq: 'daily',
     priority: 0.7,
@@ -19,7 +19,7 @@ module.exports = {
 
         ],
         additionalSitemaps: [
-            'https://olkaesi.vercel.app/sitemap-howz.xml',
+            'https://howz.dev/sitemap-howz.xml',
         ],
     },
 }
